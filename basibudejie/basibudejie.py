@@ -1,4 +1,7 @@
 # -*- coding:utf-8 -*-
+# author：huangc
+# 博客：http://www.boyumanong.top
+# 仅做学习用途
 import urllib.request
 import re
 
