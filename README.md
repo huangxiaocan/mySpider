@@ -7,7 +7,7 @@ pycharm
 
 ## 参考视频
 https://tv.sohu.com/v/dXMvMzEwMDczMzU4LzEwNDI0OTE5Ny5zaHRtbA==.html
-
+https://www.imooc.com/video/10674
 ## 博客
 更多学习：http://www.boyumanong.top
 
